@@ -1,4 +1,4 @@
-### Single Page Application Template 
+## Single Page Application Template 
 The software is a single page application template to create beautiful and responsive single-page website.
 
 ### Installation

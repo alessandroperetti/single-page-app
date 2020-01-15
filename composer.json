@@ -1,0 +1,9 @@
+{
+  "require": {
+    "twbs/bootstrap": "4.3.1",
+    "phpmailer/phpmailer": "^6.1",
+    "fortawesome/font-awesome": "^5.11",
+    "components/jquery": "^3.4",
+    "onemarshall/contao-aos": "^1.0"
+  }
+}
